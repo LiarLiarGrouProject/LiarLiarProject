@@ -1,1 +1,0 @@
-*NOTE* The Object folder may end up being miscellanous and unnecassry to the game's function. If it is not used, delete.
