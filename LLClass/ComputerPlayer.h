@@ -11,13 +11,18 @@
 	//Bluff
 	//Call liar
 	//Lose lives
+
+//FUNCTIONS WILL BE COMMENTED OUT UNTIL FINISHED
 class ComputerPlayer {
 public:
-	void DrawCard(); //Function to draw a card and add it to the computer's hand
-	void PlayCard(); //Function to play a card from the computer's hand
-	void Bluff(); //Function to bluff by playing a card that does not match the current rank
-	void CallLiar(); //Function to call liar on the previous player
-	string ShowHand(); //Function to show the computer's hand, will also declare if the computer is bluffing or not
+	void SetName(string computerPlayer) {
+		name = computerPlayer;
+	}
+	//void TakeCards(); //Function to take cards in discard pile and add them to the computer's hand
+	//void PlayCard(); //Function to play a card from the computer's hand
+	//void Bluff(); //Function to bluff by playing a card that does not match the current rank
+	//void CallLiar(); //Function to call liar on the previous player
+	//string ShowHand(); //Function to show the computer's hand, will also declare if the computer is bluffing or not
 
 private:
 	//Adjustments may need to be made based on Deck/Playing coding
