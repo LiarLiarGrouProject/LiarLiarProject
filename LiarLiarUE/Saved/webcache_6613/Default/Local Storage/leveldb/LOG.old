@@ -1,8 +1,24 @@
-2026/04/17-23:25:11.757 4ff8 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/04/17-23:25:11.780 4ff8 Recovering log #3
-2026/04/17-23:25:11.780 4ff8 Level-0 table #3: started
-2026/04/17-23:25:11.792 4ff8 Level-0 table #3: 66457 bytes OK
-2026/04/17-23:25:11.792 4ff8 Recovering log #4
-2026/04/17-23:25:11.797 4ff8 Reusing old log C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
-2026/04/17-23:25:11.802 4ff8 Delete type=0 #3
-2026/04/17-23:25:11.802 4ff8 Delete type=2 #5
+2026/04/27-15:41:07.892 5444 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/27-15:41:07.908 5444 Recovering log #12
+2026/04/27-15:41:07.920 5444 Reusing old log C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/000012.log 
+2026/04/27-15:42:19.320 314c Level-0 table #17: started
+2026/04/27-15:42:19.332 314c Level-0 table #17: 82775 bytes OK
+2026/04/27-15:42:19.355 314c Delete type=0 #12
+2026/04/27-15:45:19.325 314c Level-0 table #19: started
+2026/04/27-15:45:19.338 314c Level-0 table #19: 87478 bytes OK
+2026/04/27-15:45:19.341 314c Delete type=0 #16
+2026/04/27-17:07:10.789 314c Level-0 table #21: started
+2026/04/27-17:07:10.804 314c Level-0 table #21: 89970 bytes OK
+2026/04/27-17:07:10.811 314c Delete type=0 #18
+2026/04/27-17:07:41.239 314c Level-0 table #23: started
+2026/04/27-17:07:41.251 314c Level-0 table #23: 91338 bytes OK
+2026/04/27-17:07:41.257 314c Delete type=0 #20
+2026/04/27-17:07:41.258 314c Compacting 4@0 + 1@1 files
+2026/04/27-17:07:41.281 314c Generated table #24@0: 12 keys, 34317 bytes
+2026/04/27-17:07:41.282 314c Compacted 4@0 + 1@1 files => 34317 bytes
+2026/04/27-17:07:41.286 314c compacted to: files[ 0 1 0 0 0 0 0 ]
+2026/04/27-17:07:41.291 314c Delete type=2 #14
+2026/04/27-17:07:41.291 314c Delete type=2 #17
+2026/04/27-17:07:41.292 314c Delete type=2 #19
+2026/04/27-17:07:41.292 314c Delete type=2 #21
+2026/04/27-17:07:41.292 314c Delete type=2 #23
