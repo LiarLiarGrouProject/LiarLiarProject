@@ -1,2 +1,3 @@
-2026/05/07-20:28:48.262 6638 Creating DB C:\Users\antho\source\repos\SteffTest94\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Local Storage\leveldb since it was missing.
-2026/05/07-20:28:48.293 6638 Reusing MANIFEST C:\Users\antho\source\repos\SteffTest94\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/07-20:32:51.052 3dd8 Reusing MANIFEST C:\Users\antho\source\repos\SteffTest94\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/07-20:32:51.066 3dd8 Recovering log #3
+2026/05/07-20:32:51.068 3dd8 Reusing old log C:\Users\antho\source\repos\SteffTest94\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Local Storage\leveldb/000003.log 
