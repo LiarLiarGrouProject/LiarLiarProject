@@ -1,2 +1,9 @@
-2026/04/13-20:57:16.300 10b4 Creating DB C:\Users\stlyn\OneDrive\Desktop\2026 Projects\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb since it was missing.
-2026/04/13-20:57:16.336 10b4 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-23:27:03.613 1a48 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/04/17-23:27:03.627 1a48 Recovering log #4
+2026/04/17-23:27:03.640 1a48 Reusing old log C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\repos\LiarLiarProject\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/000004.log 
+2026/04/17-23:35:08.630 1ac Level-0 table #7: started
+2026/04/17-23:35:08.645 1ac Level-0 table #7: 80640 bytes OK
+2026/04/17-23:35:08.650 1ac Delete type=0 #4
+2026/04/17-23:35:38.854 1ac Level-0 table #9: started
+2026/04/17-23:35:38.867 1ac Level-0 table #9: 61794 bytes OK
+2026/04/17-23:35:38.873 1ac Delete type=0 #6
