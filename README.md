@@ -76,6 +76,8 @@ BP_CardDragNDrop - A DragDropOperation Blueprint
 CardHandWidget - Created DragSorted event to handle re-positioning of card after drag
 - Added EventOnDrageCancelled node to handle what happens when player is done dragging card to desired position;
 
-Uploaded current work to a new branch, SteffensLiarLiarGame, and migrated the repository to an organization created for the group project. 
+Uploaded current work to a new branch, SteffensLiarLiarGame, and migrated the repository to an organization created for the group project.
 This allows branches/work to be locked as needed.
+
+[BREAK]
 
