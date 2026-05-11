@@ -1,15 +1,15 @@
 # LiarLiarProject
-A game made with C++ and Unreal Engine 5 based off of the Liar's Bar game, Liar's deck. Contributors are Steffen Turner, Tony Zitzner, and Mathew Schultz.
+## A game made with C++ and Unreal Engine 5 based off of the Liar's Bar game, Liar's deck. Contributors are Steffen Turner, Tony Zitzner, and Mathew Schultz.
 
-### 04.06, ST - added editing branch to the project, to help maintain overal code integrity while working; also started working on coding the computer player. Updated default branch to editing branch for commits.
+#### 04.06, ST - added editing branch to the project, to help maintain overal code integrity while working; also started working on coding the computer player. Updated default branch to editing branch for commits.
 
-### 04.12, ST added UE editing branch to project, changed original editing branch to cplusEditing branch
+#### 04.12, ST added UE editing branch to project, changed original editing branch to cplusEditing branch
 
-### 04.25, TZ added 2 different ways to incorporate to deck, option#1 is UPrimaryDataAssect.cpp, ADeckActor.cpp, and ADeckManager. Option #2 is UCard.cpp and CardAssetFactory.cpp.
+#### 04.25, TZ added 2 different ways to incorporate to deck, option#1 is UPrimaryDataAssect.cpp, ADeckActor.cpp, and ADeckManager. Option #2 is UCard.cpp and CardAssetFactory.cpp.
 
-### 05.07, ST added AI controllers, enum, a gameplay blueprint, and created a file to hold the enum and gameplay blueprint in the .uproject file. These are meant to be used for the Computer Player logic and Game Play logic down the road.
+#### 05.07, ST added AI controllers, enum, a gameplay blueprint, and created a file to hold the enum and gameplay blueprint in the .uproject file. These are meant to be used for the Computer Player logic and Game Play logic down the road.
 
-### 05.09 [17:11-19:30] ST used older version of the project as a base for project rebuild, with the goal that ST could properly implement the computer player logic and create a working game. Using a YouTube tutorial series, ST worked on creating a widget-based deck in the CardUI folder and created: 
+#### 05.09 [17:11-19:30] ST used older version of the project as a base for project rebuild, with the goal that ST could properly implement the computer player logic and create a working game. Using a YouTube tutorial series, ST worked on creating a widget-based deck in the CardUI folder and created: 
 
 [NOTE: following summary of actions is not comprehensive as it was written after the work was done]
 
@@ -50,7 +50,7 @@ making it difficult for the player to see) with a for loop
 CardWidget - Added custom event StartReposition, so that cards arrange themselves accordingly after being generated with an EventTick
 - Created HAsCardReachedDestination? macro to confirm that card has been placed appropriately
 
-### 05.10 [17:53-19:19] ST continued work on the deck widgets, with the goal to finish the YouTube tutorial series
+#### 05.10 [17:53-19:19] ST continued work on the deck widgets, with the goal to finish the YouTube tutorial series
 
 CardHandWidget - Created the GetCardIndexPositionFromCenter to get the angle of an individual card realitive to the center of a hand; this is going to be used in the future to help create a 'fan' effect with the cards in hand
 - Created CardsInHand function which calls for the 'lenght' of the CardWidgetPref array (this array holds the cards dealt out)
@@ -63,7 +63,7 @@ CardHandWidget - Set up hover logic in the EventGraph using Custom Events; creat
 
 CardWidget - Used Event On Mouse Enter/Leave nodes to implement hover logic, so that when the player hovers their mouse over specific cards, the card raises above other cards in the hand
 
-### 05.11 [09:54 -] ST finishing the YouTube tutorials
+#### 05.11 [09:54 -] ST finishing the YouTube tutorials
 
 CardWidget - Used On Mouse Button and On Drag Detect override functions to start creating the effect where you can drag and place individual cards 
 - Used BP_CardDragNDrop in On Drag Detect function
