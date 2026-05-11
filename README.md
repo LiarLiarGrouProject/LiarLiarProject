@@ -13,6 +13,7 @@ A game made with C++ and Unreal Engine 5 based off of the Liar's Bar game, Liar'
 [NOTE: following summary of actions is not comprehensive as it was written after the work was done]
 BPFL_Cards - A Function Library 
 - created the GetRandomCard function for use in generating cards by pulling a random card's individual information at random from TableCardsDT
+
 BPI_AddCard - An Interface meant to add cards to a hand (for now)
 CardController - A class which creates the Card HUD using the CardHudWidget
 CardGameMode - A custom game mode, so that camera is fixed in place and the card UI is optimized
