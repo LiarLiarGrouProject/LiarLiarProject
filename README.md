@@ -81,3 +81,9 @@ This allows branches/work to be locked as needed.
 
 [BREAK]
 
+CardWidget - Used EventOnDragEnter and EventOnDragLeave nodes to start creating the logic behind moving/rearranging cards in the player's hand, attached event dispatchers
+
+CardHandWidget - Created custom events that will use the dispatchers created in CardWidget 
+- Created function SetDraggedOverCard for drag placement logic
+- Attatched SetDraggedOverCard to appropriates events in event graph
+- 
