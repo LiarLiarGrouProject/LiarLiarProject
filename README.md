@@ -95,5 +95,6 @@ CardHandWidget - Created a seperate function, HandleDragOverStopped, to hand the
 - Having issue with the drag function, drop is not happening; checking work, no errors currently seen, will need to troubleshoot further
 - Found that issue may be related to the HandleDragOverStopped function; does not seem to be activating
 - Will go back to troubleshoot after finishing the YouTube tutorial series and creating hands for the computer players; this feature is not vital to gameplay
--Created GetCardIndesWithoutPosition function;
+- Created GetCardIndesWithoutPosition function;
 - New issue: cards are disappearing; could be base don opacity change settings; will go back to troubleshoot as well
+- Final video seems to be on content that may not be used; took break
