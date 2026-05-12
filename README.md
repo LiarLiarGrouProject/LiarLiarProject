@@ -86,4 +86,14 @@ CardWidget - Used EventOnDragEnter and EventOnDragLeave nodes to start creating 
 CardHandWidget - Created custom events that will use the dispatchers created in CardWidget 
 - Created function SetDraggedOverCard for drag placement logic
 - Attatched SetDraggedOverCard to appropriates events in event graph
-- 
+
+05.12 ST continued working on the movement of the cards in the player's hand
+
+CardHandWidget - Created a seperate function, HandleDragOverStopped, to hand the logic for what happens when the card is no longer being dragged
+- Attatched HandDragOverStopped to CallDragOverStopped event
+- Created MoveDraggedCardToHover function; this function will make it so that when a card being dragged around the hand hovers over another card, the bottom card will move to allow space for the above card
+- Having issue with the drag function, drop is not happening; checking work, no errors currently seen, will need to troubleshoot further
+- Found that issue may be related to the HandleDragOverStopped function; does not seem to be activating
+- Will go back to troubleshoot after finishing the YouTube tutorial series and creating hands for the computer players; this feature is not vital to gameplay
+-Created GetCardIndesWithoutPosition function;
+- New issue: cards are disappearing; could be base don opacity change settings; will go back to troubleshoot as well
