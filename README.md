@@ -111,3 +111,5 @@ CardHandWidget - Changed CardWidgetReference to PlayerHandRef; functionality for
 CardHUDWidget - Set up text boxes to display the computer players' hand info; currently just printing the card description of the first card in each computer hand to confirm that the computer players are being dealt cards and that the information is being pulled correctly; will adjust this later so that it displays all cards in the computer hand and is formatted better
 - Created functions to update the text for the computer players' to show how many cards they have in their hand; attatched to add card button for now, this could be used to update again when cards are playd by the computers
 - Currently, AddCard button has to be clicked in order for cards to be dealt to all players; will work on making it so that the button can only be clicked once, and upon click, 6 cards will deal out to all players; 
+
+05.13 ST started work on gamplay mechanics through functions; started with dealing out hands to all players
