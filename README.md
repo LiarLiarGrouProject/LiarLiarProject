@@ -102,9 +102,12 @@ CardHandWidget - Created a seperate function, HandleDragOverStopped, to hand the
 [Break]
 
 CardHandWidget - Changed CardWidgetReference to PlayerHandRef; functionality for how the cards are stored and seen on screen largely will remain the same, so this this Array will now be the player's hand
-- Duplicated the PlayerHandRef three times, renamed Arrays ComputerHand1, ComputerHand2, and ComputerHand3; these will store the hand info for the computer players
+- Duplicated the PlayerHandRef three times, renamed Arrays ComputerHand1Ref, ComputerHand2Ref, and ComputerHand3Ref; these will store the hand info for the computer players
+- Added a way for the get card button to send cards to Computer Hand 1 at the same time it deals cards to the PlayerHand
+- Created CardInfo function, which is meant to recieve an array table, look up it's entries, then get an item by index and return the card info; currently using this so that a confirmation of cards entered into a computers hand is printed to the screen
+- Chandged overlay name to PlayerHandOverlay
 - 
 
-CardHUDWidget - In the canvas Panel, duplicated the CardHandWidget entries, adding _Comp1, _Comp2, and Comp3 at the end of their names; these will store the placement of cards dealt to computers. May use later, so that player can see the number of cards in the computer players' hand
-- Created CardInfo function, which is meant to recieve an array table, look up it's entries, then get an item by index and return the card info; currently using this so that a confirmation of cards entered into a computers hand is printed to the screen
-- 
+CardHUDWidget - Set up text boxes to display the computer players' hand info; currently just printing the card description of the first card in each computer hand to confirm that the computer players are being dealt cards and that the information is being pulled correctly; will adjust this later so that it displays all cards in the computer hand and is formatted better
+- Created functions to update the text for the computer players' to show how many cards they have in their hand; attatched to add card button for now, this could be used to update again when cards are playd by the computers
+- Currently, AddCard button has to be clicked in order for cards to be dealt to all players; will work on making it so that the button can only be clicked once, and upon click, 6 cards will deal out to all players; 
