@@ -117,4 +117,11 @@ CardHUDWidget - Set up text boxes to display the computer players' hand info; cu
 CardHUDWidget - Added while loop to the "Add Card" button; this is meant to make it so that when a random card is generated, a check for the number of cards in each player's hand before the card is created.
 - Added buttons to deal cards computer hands; changed "AddCard" button to "DealPlayerCards"
 - Created a function that should handle the card hand generation process; currently, because AddCard is handled by the HUD widget, adding cards to an array 'resets' the player card hand. Will test currnet code to see if calling the function from ComputerPlayer3, 2, and 1 before the player hand helps it achieve the effect desired
-- 
+- Function did not work
+- Reversed decision to add more buttons to deal out cards to players;
+
+BPFL_Cards - Created DealComputerCards, a function that check the number of cards in the target computer player's hand (array) before entering a loop that will add a random card to their array.
+- Tested function, confirmed that this method generates cards seperate from the player hand cards, which was a consistent problem with previous attempts at generating new cards for the computer players
+- All players now have their own hand of cards
+
+[Break]
