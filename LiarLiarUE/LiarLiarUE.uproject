@@ -1,38 +1,4 @@
 {
-<<<<<<< HEAD
-  "FileVersion": 3,
-  "EngineAssociation": "{94BA9396-4A86-4E0C-EB7B-58A89C6C481F}",
-  "Category": "",
-  "Description": "",
-  "Modules": [
-    {
-      "Name": "LiarLiarUE",
-      "Type": "Runtime",
-      "LoadingPhase": "Default"
-    }
-  ],
-  "Plugins": [
-    {
-      "Name": "ModelingToolsEditorMode",
-      "Enabled": true
-    },
-    {
-      "Name": "GameplayStateTree",
-      "Enabled": true
-    },
-    {
-      "Name": "VisualStudioTools",
-      "Enabled": true,
-      "SupportedTargetPlatforms": [
-        "Win64"
-      ]
-    }
-  ],
-  "TargetPlatforms": [],
-  "AdditionalRootDirectories": [],
-  "AdditionalPluginDirectories": [],
-  "EpicSampleNameHash": ""
-=======
 	"FileVersion": 3,
 	"EngineAssociation": "{94BA9396-4A86-4E0C-EB7B-58A89C6C481F}",
 	"Category": "",
@@ -50,5 +16,4 @@
 			"Enabled": true
 		}
 	]
->>>>>>> uproject file check
 }
