@@ -113,3 +113,8 @@ CardHUDWidget - Set up text boxes to display the computer players' hand info; cu
 - Currently, AddCard button has to be clicked in order for cards to be dealt to all players; will work on making it so that the button can only be clicked once, and upon click, 6 cards will deal out to all players; 
 
 05.13 ST started work on gamplay mechanics through functions; started with dealing out hands to all players
+
+CardHUDWidget - Added while loop to the "Add Card" button; this is meant to make it so that when a random card is generated, a check for the number of cards in each player's hand before the card is created.
+- Added buttons to deal cards computer hands; changed "AddCard" button to "DealPlayerCards"
+- Created a function that should handle the card hand generation process; currently, because AddCard is handled by the HUD widget, adding cards to an array 'resets' the player card hand. Will test currnet code to see if calling the function from ComputerPlayer3, 2, and 1 before the player hand helps it achieve the effect desired
+- 
