@@ -131,4 +131,4 @@ BPFL_Cards - Created DealComputerCards, a function that check the number of card
 BPFL_Cards - Created the GetRandomStartingCard function; this function calls a random card from the TableCardsDT; it is meant to signal the first card "type" that is in play during a round
 
 CardHUDwidget - Added code so that the last thing to happen when the "Deal Cards" button is clicked is a random card pull using the GetRandomStartingCard function
--Also created a text box that will update with the face value of the card pulled by the GetRandomStartingCard function, so that there is a visual representation of the card in play; this is meant to be used for testing purposes, but could be used in the final game as well for accesibility purposes
+- Also created a text box that will update with the face value of the card pulled by the GetRandomStartingCard function, so that there is a visual representation of the card in play; this is meant to be used for testing purposes, but could be used in the final game as well for accesibility purposes
