@@ -141,12 +141,18 @@
     <Filter Include="Source\LiarLiarUE\Private">
       <UniqueIdentifier>{0CFED4AA-A41A-3FA1-9FDC-DEAD32C7CDDC}</UniqueIdentifier>
     </Filter>
+    <ClCompile Include="..\..\Source\LiarLiarUE\Private\CardHUDUW.cpp">
+      <Filter>Source\LiarLiarUE\Private</Filter>
+    </ClCompile>
     <ClCompile Include="..\..\Source\LiarLiarUE\Private\MyBlueprintFunctionLibrary.cpp">
       <Filter>Source\LiarLiarUE\Private</Filter>
     </ClCompile>
     <Filter Include="Source\LiarLiarUE\Public">
       <UniqueIdentifier>{39EA6B3C-8507-3F05-9079-87BA06B37240}</UniqueIdentifier>
     </Filter>
+    <ClInclude Include="..\..\Source\LiarLiarUE\Public\CardHUDUW.h">
+      <Filter>Source\LiarLiarUE\Public</Filter>
+    </ClInclude>
     <ClInclude Include="..\..\Source\LiarLiarUE\Public\MyBlueprintFunctionLibrary.h">
       <Filter>Source\LiarLiarUE\Public</Filter>
     </ClInclude>

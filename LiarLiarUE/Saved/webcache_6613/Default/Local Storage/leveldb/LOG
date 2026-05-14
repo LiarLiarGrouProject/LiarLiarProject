@@ -1,5 +1,3 @@
-2026/05/14-01:32:51.875 934 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
-2026/05/14-01:32:51.885 934 Recovering log #7
-2026/05/14-01:32:51.886 934 Level-0 table #9: started
-2026/05/14-01:32:51.903 934 Level-0 table #9: 66532 bytes OK
-2026/05/14-01:32:51.915 934 Delete type=0 #7
+2026/05/14-03:06:56.403 5db0 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/MANIFEST-000001
+2026/05/14-03:06:56.413 5db0 Recovering log #29
+2026/05/14-03:06:56.418 5db0 Reusing old log C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613\Default\Local Storage\leveldb/000029.log 
