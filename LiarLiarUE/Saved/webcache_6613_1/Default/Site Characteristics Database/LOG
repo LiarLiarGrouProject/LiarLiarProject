@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/05/12-02:31:07.534 700 Reusing MANIFEST C:\Users\antho\source\repos\LiarLiarGrouProject\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
 2026/05/12-02:31:07.535 700 Recovering log #3
 2026/05/12-02:31:07.535 700 Reusing old log C:\Users\antho\source\repos\LiarLiarGrouProject\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Site Characteristics Database/000003.log 
+=======
+2026/05/14-05:18:50.501 8a24 Creating DB C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613_1\Default\Site Characteristics Database since it was missing.
+2026/05/14-05:18:50.508 8a24 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613_1\Default\Site Characteristics Database/MANIFEST-000001
+>>>>>>> e5cfeb9411c09da6d0050cf1a41f65212c6fe493

@@ -1,3 +1,8 @@
+<<<<<<< HEAD
 2026/05/12-02:31:21.539 5314 Reusing MANIFEST C:\Users\antho\source\repos\LiarLiarGrouProject\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Session Storage/MANIFEST-000001
 2026/05/12-02:31:21.540 5314 Recovering log #3
 2026/05/12-02:31:21.542 5314 Reusing old log C:\Users\antho\source\repos\LiarLiarGrouProject\LiarLiarProject\LiarLiarUE\Saved\webcache_6613_1\Default\Session Storage/000003.log 
+=======
+2026/05/14-05:18:54.767 6aa4 Creating DB C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613_1\Default\Session Storage since it was missing.
+2026/05/14-05:18:54.792 6aa4 Reusing MANIFEST C:\Users\stlyn\OneDrive\Desktop\2026 Projects\source\LiarLiarUE\Saved\webcache_6613_1\Default\Session Storage/MANIFEST-000001
+>>>>>>> e5cfeb9411c09da6d0050cf1a41f65212c6fe493
