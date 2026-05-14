@@ -1,4 +1,5 @@
 {
+<<<<<<< HEAD
   "FileVersion": 3,
   "EngineAssociation": "{94BA9396-4A86-4E0C-EB7B-58A89C6C481F}",
   "Category": "",
@@ -31,4 +32,23 @@
   "AdditionalRootDirectories": [],
   "AdditionalPluginDirectories": [],
   "EpicSampleNameHash": ""
+=======
+	"FileVersion": 3,
+	"EngineAssociation": "{94BA9396-4A86-4E0C-EB7B-58A89C6C481F}",
+	"Category": "",
+	"Description": "",
+	"Plugins": [
+		{
+			"Name": "ModelingToolsEditorMode",
+			"Enabled": true,
+			"TargetAllowList": [
+				"Editor"
+			]
+		},
+		{
+			"Name": "GameplayStateTree",
+			"Enabled": true
+		}
+	]
+>>>>>>> uproject file check
 }
