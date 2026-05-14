@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "LiarLiarUE",
+			"Path": "..\\Source\\LiarLiarUE.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "LiarLiarUEEditor",
+			"Path": "..\\Source\\LiarLiarUEEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}
