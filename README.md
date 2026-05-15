@@ -138,5 +138,5 @@ While clearing out the main branch so that I could place the files in the Steffe
 =======
 While clearing out the main branch so that I could place the files in the SteffensLiarLiarGame branch, I mistakenly deleted the files in the unrealEditing branch. The unrealEditing branch had Tony Z's work as of 5.12. Immediately contacted him to inform him of the mistake. His work can still be viewd in the history of the commits; will try to restor his work with that.
 
-OneDriveIssue was more of a problem than expected; while working on re-creating code in C++ in a seperate .uproject file, cleared recycling bin. Somehow, this removed Unreal Engine. Re-download is still in progress.
->>>>>>> Updated README file
+OneDrive issue was more of a problem than expected; while working on re-creating code in C++ in a seperate .uproject file, cleared recycling bin. Somehow, this removed Unreal Engine. Re-download is still in progress.
+
